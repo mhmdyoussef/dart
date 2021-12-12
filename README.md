@@ -1,2 +1,2 @@
-# dart
-Learning dart
+# Dart
+This repo is for learning Dart
