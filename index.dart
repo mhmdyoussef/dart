@@ -1,6 +1,6 @@
 void main() {
-  var a = "Hello";
-  var c = "World";
+  var firstName = "Mohamed";
+  var lastName = "Youssef";
 
-  print("${a b}");
+  print("${firstName} ${lastName}");
 }
