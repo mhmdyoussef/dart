@@ -1,5 +1,6 @@
 void main() {
-  var a = 'Hello';
-  var b = 'Mohamed';
-  print("${a} ${b}");
+  var a = "Hello";
+  var c = "World";
+
+  print("${a b}");
 }
