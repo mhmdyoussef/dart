@@ -1,6 +1,5 @@
-void main() {
-  var firstName = "Mohamed";
-  var lastName = "Youssef";
+main() {
 
-  print("${firstName} ${lastName}");
+  
+
 }
